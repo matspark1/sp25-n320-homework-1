@@ -15,7 +15,7 @@ console.log("Node.js is a JavaScript runtime environment that allows developers 
 alert("Node.js allows developers to use javascript for both the front and backend of a project.")
 ```
 ```js
-console.log("Key features include Event-driven architecture and NPM")
+console.log("Key features include event-driven architecture and NPM")
 ```
 
 ### Version Control, Git, & GitHub
